@@ -7,6 +7,8 @@
 int main()
 {
 	// do something useful
+	printf("Press any key: ");
+	int c = getchar();
     return 0;
 }
 
